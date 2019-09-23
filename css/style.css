@@ -1,0 +1,39 @@
+body{
+  background-color: #393E46;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4.5rem;
+  font-family: 'Lobster', cursive;
+  color:#4ECCA3;
+  text-shadow: 5px 0 black;
+}
+
+h3{
+  color: white;
+}
+
+.flagleft{
+  text-align: right;
+  font-size: 3rem;
+
+}
+
+.flagright{
+  text-align: left;
+  font-size: 3rem;
+
+}
+
+.winsect{
+  padding-top: 5%;
+}
+
+.gamearea{
+  padding-top: 5%;
+  font-family: 'Indie Flower', cursive;
+  color:#4ECCA3;
+  font-size: 2rem;
+
+}
